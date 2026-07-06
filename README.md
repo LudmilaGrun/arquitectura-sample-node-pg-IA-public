@@ -183,3 +183,4 @@ Este ejercicio me mostró que un buen resultado depende mucho de la calidad del 
 * Link/PDF de la conversación completa con la IA: https://chatgpt.com/share/6a47cd85-ec64-83e9-959c-4cf47ce5f788
 * Commit(s) en GitHub: ____________
 * Capturas de Postman con las pruebas realizadas.
+![alt text](image.png)
